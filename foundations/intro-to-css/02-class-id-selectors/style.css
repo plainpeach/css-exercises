@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+.stuff {
+    background-color: #ffa7a7;
+    font-family: Verdana, "DejaVu Sans", "Times New Roman", sans-serif;
+}
+
+.size1 {
+    font-size: larger;
+}
+.size2 {
+    color: #0001FE;
+    font-size: 36px;
+}
+.size3 {
+    font-size: 24px;
+}
+.size4 {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: #80FE81;
+}
